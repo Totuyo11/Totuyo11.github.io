@@ -25,7 +25,7 @@ instagram_username: totuyo11
 linkedin_username: arturo-ibarra-castaneda
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: Sr.Denigrante 11
+youtube_username: sr.denigrante1128
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,11 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: Mugiwara.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Arturo I am 22 yeard old and I am a engenieer in systemas. 
+  Hi, my name's Arturo and I am 22 yeard old and I am a engenieer in systemas. 
   As well as administrating systems I also have experience video games. 
-  I am a student and course the 7mo semester in University the Guadalajara in CUCEI
+  I am a student and course the 7mo semester in University the Guadalajara in CUCEI.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Videogames</mark> and <mark>Boling</mark>
 
 content:
   - title: Projects # Title for the section
