@@ -7,16 +7,16 @@ version: 2
 
 # Personal info
 name: Arturo Ibarra Castañeda
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+title: Student
+email: arturo.ibarra3675@alumnos.udg.mx
+website: https://www.youtube.com/@sr.denigrante1128
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: @totuyoibarra
+github_username:  Totuyo11
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -48,8 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name Arturo a engenieer computation. 
-  As well as administrating systems I also have experience video games. I am a student, studing for University the Guadalajara and .
+  Hi, my name Arturo I am a engenieer computation. 
+  As well as administrating systems I also have experience video games. I am a student, studing for University the Guadalajara and seller the panini oficial.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
